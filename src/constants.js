@@ -14,30 +14,32 @@ export const services = [
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Gnaneswar';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
+        'company': 'Bluestock IPO',
+        'role': 'Software Development Intern',
+        'duration': 'Dec 2024 - Feb 2025',
+        'logo': 'https://bluestock.in/static/assets/logo/logo.webp',
         'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            '⚙️ Developed and optimized backend systems for high-performance trading applications.',
+            '🔗 Enhanced API integrations to improve real-time data processing.',
+            '🛠️ Assisted in building and maintaining software applications for client requirements.',
+            '⚡ Optimized database queries and API calls to improve application performance.'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://bluestock.in/',
     },
     {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
+        'company': 'EduSkills',
+        'role': 'Jfsd Virtual intern',
+        'duration': 'Sept 2024 - Nov 2024',
+        'logo': 'https://eduskillsfoundation.org/login/assets/logo-BNp4wELk.png',
         'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
+            '💻 Gained hands-on experience in Java Full-Stack Development (JFSD).',
+            '🔧 Built and deployed web applications using Spring Boot, Hibernate, ReactJS, and MySQL.',
+            '🏗️ Implemented REST APIs, authentication mechanisms, and database integrations.',
+            '📈 Improved backend performance and optimized query execution.'
         ],
         'url': 'https://www.att.com/',
     },
